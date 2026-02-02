@@ -1,13 +1,12 @@
 title: "GRUPO OX"
-author: "GRUPO OX"
-email: "sac@souox.com"
 description: "OX Industria de produtos quimicos"
 permalink: ':title'
-image: "https://picsum.photos/600/363" #https://picsum.photos/600/363
-avatar: "https://avatars.githubusercontent.com/u/6352393?v=4"
-baseurl: ""
+img: "https://picsum.photos/600/363" #https://picsum.photos/600/363
+baseurl: "/"
 url: "https://www.souox.com"
 markdown: kramdown
 # paginate: 10
 plugins:
   - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap
