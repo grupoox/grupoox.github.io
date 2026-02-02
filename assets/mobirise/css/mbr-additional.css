@@ -1350,8 +1350,14 @@ a {
 .cid-v4fQQTK6ok .copyright > p {
   text-align: center;
 }
-.cid-v9JxR6o3qO .navbar-dropdown {
-  position: relative !important;
+.cid-v9JxR6o3qO {
+  z-index: 1000;
+  width: 100%;
+  position: relative;
+  min-height: 60px;
+}
+.cid-v9JxR6o3qO nav.navbar {
+  position: fixed;
 }
 .cid-v9JxR6o3qO .dropdown-item:before {
   font-family: Moririse2 !important;
@@ -1689,6 +1695,7 @@ a {
 }
 .cid-v9JxR6o3qO .navbar-dropdown {
   padding: 0 1rem;
+  position: fixed;
 }
 .cid-v9JxR6o3qO a.nav-link {
   display: flex;
