@@ -1,69 +1,11 @@
+---
+---
 <!DOCTYPE html>
-<html  >
-<head>
-
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-
-  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
-  <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
-  <meta name="description" content="descricao aqui">
-  
-  
-  <title>Blog</title>
-  <link rel="stylesheet" href="assets/web/assets/mobirise-icons2/mobirise2.css">
-  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
-  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-grid.min.css">
-  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-reboot.min.css">
-  <link rel="stylesheet" href="assets/parallax/jarallax.css">
-  <link rel="stylesheet" href="assets/dropdown/css/style.css">
-  <link rel="stylesheet" href="assets/socicon/css/styles.css">
-  <link rel="stylesheet" href="assets/theme/css/style.css">
-  <link rel="preload" href="https://fonts.googleapis.com/css?family=Exo+2:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
-  <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Exo+2:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i&display=swap"></noscript>
-  <link rel="preload" as="style" href="assets/mobirise/css/mbr-additional.css?v=rn7PEr"><link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css?v=rn7PEr" type="text/css">
-
-  
-  
-  
-</head>
+<html lang="pt-BR">
+{% include head.html %}
 <body>
-  
-  <section data-bs-version="5.1" class="menu menu2 cid-v9JxR6o3qO" once="menu" id="menu2-v">
-    
-    <nav class="navbar navbar-dropdown navbar-fixed-top navbar-expand-lg">
-        <div class="container">
-            <div class="navbar-brand">
-                <span class="navbar-logo">
-                    <a href="index.html#top">
-                        <img src="assets/images/logoox.png" alt="GRUPO OX" style="height: 3rem;">
-                    </a>
-                </span>
-                
-            </div>
-            <button class="navbar-toggler" type="button" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbarSupportedContent" data-bs-target="#navbarSupportedContent" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
-                <div class="hamburger">
-                    <span></span>
-                    <span></span>
-                    <span></span>
-                    <span></span>
-                </div>
-            </button>
-            <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                <ul class="navbar-nav nav-dropdown" data-app-modern-menu="true"><li class="nav-item"><a class="nav-link link text-white text-primary display-4" href="index.html#image2-9">Sobre</a></li>
-                    <li class="nav-item"><a class="nav-link link text-white text-primary display-4" href="index.html#features3-4">Marcas</a></li><li class="nav-item"><a class="nav-link link text-white text-primary display-4" href="index.html#features11-7">Produtos</a></li>
-                    <li class="nav-item"><a class="nav-link link text-white text-primary display-4" href="index.html#footer6-6">Contato</a>
-                    </li><li class="nav-item"><a class="nav-link link text-white text-primary display-4" href="blog.html">Blog</a></li></ul>
-                
-                <div class="navbar-buttons mbr-section-btn"><a class="btn btn-primary display-4" href="https://souox.com/vagas" target="_blank"><span class="mobi-mbri mobi-mbri-cursor-click mbr-iconfont mbr-iconfont-btn"></span>Trabalhe conosco</a></div>
-            </div>
-        </div>
-    </nav>
-</section>
-
+{% include menu.html %}
 <section data-bs-version="5.1" class="gallery3 cid-v9BTdv6VQO" id="gallery3-u">
-    
-    
     <div class="container-fluid">
         <div class="mbr-section-head">
             <h4 class="mbr-section-title mbr-fonts-style align-center mb-0 display-2">
@@ -72,185 +14,28 @@
             <h5 class="mbr-section-subtitle mbr-fonts-style align-center mb-0 mt-2 display-5">Images with Title and Text</h5>
         </div>
         <div class="row mt-4">
+		<!-- xxxxxxxxxxxxxx -->
+		{% for post in site.posts limit : 16 %}
             <div class="item features-image col-12 col-md-6 col-lg-3">
                 <div class="item-wrapper">
                     <div class="item-img">
-                        <a href="post.html"><img src="assets/images/features1.jpg" alt="titulo do post"></a>
+                        <a href="{{ post.url }}"><img src="{{ post.img }}" alt="{{ post.title }}"></a>
                     </div>
                     <div class="item-content">
-                        
-                        
-                        <p class="mbr-text mbr-fonts-style mt-3 display-4">
-                            Grupo OX e Grupo Ipê: Nova parceria expande portfólio de Arla 32. <a href="post.html" class="text-primary">Leia mais...</a></p>
-                    </div>
-                    
+                        <p class="mbr-text mbr-fonts-style mt-3 display-4">{{ post.title }} <a href="{{ post.url }}" class="text-primary">Leia mais...</a></p>
+                    </div>                    
                 </div>
             </div>
-            <div class="item features-image col-12 col-md-6 col-lg-3">
-                <div class="item-wrapper">
-                    <div class="item-img">
-                        <img src="assets/images/features2.jpg" alt="Mobirise Website Builder">
-                    </div>
-                    <div class="item-content">
-                        
-                        
-                        <p class="mbr-text mbr-fonts-style mt-3 display-4">
-                            Card Text. You don't have to code to create a site with Mobirise Builder. <a href="#" class="text-primary">Read more..</a></p>
-                    </div>
-                    
-                </div>
-            </div>
-            <div class="item features-image col-12 col-md-6 col-lg-3">
-                <div class="item-wrapper">
-                    <div class="item-img">
-                        <img src="assets/images/features3.jpg" alt="Mobirise Website Builder">
-                    </div>
-                    <div class="item-content">
-                        
-                        
-                        <p class="mbr-text mbr-fonts-style mt-3 display-4">
-                            Card Text. You don't have to code to create a site with Mobirise Builder. <a href="#" class="text-primary">Read more..</a></p>
-                    </div>
-                    
-                </div>
-            </div>
-            <div class="item features-image col-12 col-md-6 col-lg-3">
-                <div class="item-wrapper">
-                    <div class="item-img">
-                        <img src="assets/images/features4.jpg" alt="Mobirise Website Builder" title="">
-                    </div>
-                    <div class="item-content">
-                        
-                        
-                        <p class="mbr-text mbr-fonts-style mt-3 display-4">
-                            Card Text. You don't have to code to create a site with Mobirise Builder. <a href="#" class="text-primary">Read more..</a></p>
-                    </div>
-                    
-                </div>
-            </div>
+		{% endfor %}
+		<!-- xxxxxxxxxxxxxx -->
         </div>
     </div>
 </section>
-
-<section data-bs-version="5.1" class="form2 cid-v9BSYzlz4Y mbr-parallax-background" id="form2-s">
-
-    
-
-    
-    <div class="mbr-overlay" style="opacity: 0.8; background-color: rgb(187, 187, 187);"></div>
-    <div class="container">
-        <div class="row justify-content-center">
-            <div class="col-lg-8 mx-auto mbr-form">
-                <form action="ses.souox.com" method="POST" class="mbr-form form-with-styler" data-verified="ses.souox.com">
-                    <div class="row">
-                        
-                        <div hidden="hidden" data-form-alert-danger="" class="alert alert-danger col-12">
-                            Oops...! some problem!
-                        </div>
-                    </div>
-                    <div class="dragArea row">
-                        <div class="col-lg-12 col-md-12 col-sm-12">
-                            <h1 class="mbr-section-title mb-4 align-center mbr-fonts-style display-2"><strong>Fique por dentro!</strong></h1>
-                        </div>
-                        <div class="col-lg-12 col-md-12 col-sm-12">
-                            <p class="mbr-text mbr-fonts-style mb-5 align-center display-7">Digite seu e-mail abaixo para receber as últimas notícias e promoções do <strong>Grupo OX</strong> diretamente na sua caixa de entrada.</p>
-                        </div>
-                        <div class="col-lg col-md col-12 form-group mb-3" data-for="email">
-                            <input type="text" name="name" placeholder="Nome" data-form-field="name" class="form-control" id="name-form2-s">
-                        </div>
-                        <div class="col-lg col-md col-12 form-group mb-3" data-for="email">
-                            <input type="email" name="email" placeholder="Digite seu melhor Email..." data-form-field="email" class="form-control" id="email-form2-s">
-                        </div>
-                        <div class="mbr-section-btn col-md-auto col"><button type="submit" class="btn btn-success display-4"><span class="mobi-mbri mobi-mbri-cursor-click mbr-iconfont mbr-iconfont-btn"></span>Inscreva-me</button></div>
-                    </div>
-                </form>
-            </div>
-        </div>
-    </div>
-</section>
-
-<section data-bs-version="5.1" class="footer6 cid-v9BSYzF122" once="footers" id="footer6-t">
-
-    
-
-    
-
-    <div class="container">
-        <div class="row content mbr-white">
-            <div class="col-12 col-md-3 mbr-fonts-style display-4">
-                <h5 class="mbr-section-subtitle mbr-fonts-style mb-2 display-7">
-                    <strong>Endereço:</strong></h5>
-                <p class="mbr-text mbr-fonts-style display-4">Rua Dois, n°69 - Titanlândia
-<br>Castanhal / PA CEP: 68741-492</p> <br>
-                <h5 class="mbr-section-subtitle mbr-fonts-style mb-2 mt-4 display-7">
-                    <strong>Contato:</strong></h5>
-                <p class="mbr-text mbr-fonts-style mb-4 display-4">Email: sac@souox.com<br>Fone: +55 (91) 3712-0031<br>WhatsApp: <a href="https://souox.com/zap" class="text-danger" target="_blank">(91) 9180-8585</a>&nbsp;<br></p>
-            </div>
-            <div class="col-12 col-md-3 mbr-fonts-style display-4">
-                <h5 class="mbr-section-subtitle mbr-fonts-style mb-2 display-7">
-                    <strong>Links</strong>
-                </h5>
-                <ul class="list mbr-fonts-style mb-4 display-4">
-                    <li class="mbr-text item-wrap"><a class="text-danger" href="https://souox.com/ox-ureia/" target="_blank">OX Ureia</a></li>
-                    <li class="mbr-text item-wrap"><a class="text-danger text-primary" href="https://souox.com/arla32">Arla OX 32</a></li>
-                    <li class="mbr-text item-wrap"><a class="text-danger text-primary" href="https://souox.com/vendas">OX Vendas</a></li><li class="mbr-text item-wrap"><a href="https://souox.com/vagas" class="text-danger" target="_blank">Trabalhe Conosco</a></li>
-                </ul>
-                <h5 class="mbr-section-subtitle mbr-fonts-style mb-2 mt-5 display-7">O domínio <strong>ox.ind.br</strong></h5>
-                <p class="mbr-text mbr-fonts-style mb-4 display-4">é de propriedade exclusiva do <strong>Grupo OX</strong> e serve como infraestrutura técnica de envios transacionais.
-                </p>
-            </div>
-            <div class="col-12 col-md-6">
-                <div class="google-map"><iframe frameborder="0" style="border:0" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1919.0897065956788!2d-47.954644!3d-1.2957440000000002!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x92a5af2fbdf2f729%3A0x254836706274521e!2sOX%20INDUSTRIA%20DE%20PRODUTOS%20QUIMICOS!5e1!3m2!1spt-BR!2sbr!4v1764707023696!5m2!1spt-BR!2sbr" allowfullscreen=""></iframe></div>
-            </div>
-            <div class="col-md-6">
-                <div class="social-list align-left">
-                    <div class="soc-item">
-                        <a href="https://souox.com/tw" target="_blank">
-                            <span class="mbr-iconfont mbr-iconfont-social socicon-twitter socicon"></span>
-                        </a>
-                    </div>
-                    <div class="soc-item">
-                        <a href="https://souox.com/fb" target="_blank">
-                            <span class="mbr-iconfont mbr-iconfont-social socicon-facebook socicon"></span>
-                        </a>
-                    </div>
-                    <div class="soc-item">
-                        <a href="https://souox.com/yt" target="_blank">
-                            <span class="mbr-iconfont mbr-iconfont-social socicon-youtube socicon"></span>
-                        </a>
-                    </div>
-                    <div class="soc-item">
-                        <a href="https://souox.com/ig" target="_blank">
-                            <span class="mbr-iconfont mbr-iconfont-social socicon-instagram socicon"></span>
-                        </a>
-                    </div>
-                    <div class="soc-item">
-                        <a href="https://souox.com/bs" target="_blank">
-                            <span class="mbr-iconfont mbr-iconfont-social socicon-bluesky socicon"></span>
-                        </a>
-                    </div>
-                    <div class="soc-item">
-                        <a href="https://souox.com/zap" target="_blank">
-                            <span class="mbr-iconfont mbr-iconfont-social socicon-whatsapp socicon"></span>
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="footer-lower">
-            <div class="media-container-row">
-                <div class="col-sm-12">
-                    <hr>
-                </div>
-            </div>
-            <div class="col-sm-12 copyright pl-0">
-                <p class="mbr-text mbr-fonts-style mbr-white display-4">OX INDÚSTRIA DE PRODUTOS QUÍMICOS LTDA
-<br>CNPJ 33.029.366/0001-42<br><br><a href="https://www.souox.com/pol%C3%ADtica-de-privacidade" class="text-danger" target="_blank">Política de Privacidade</a> | <a href="https://www.souox.com/pol%C3%ADtica-de-cookies" class="text-danger" target="_blank">Política de Cookies</a> | <a href="https://www.souox.com/politica-anti-spam" class="text-danger" target="_blank">Política Anti-Spam</a><br></p>
-            </div>
-        </div>
-    </div>
-</section><script src="assets/bootstrap/js/bootstrap.bundle.min.js"></script>  <script src="assets/parallax/jarallax.js"></script>  <script src="assets/smoothscroll/smooth-scroll.js"></script>  <script src="assets/ytplayer/index.js"></script>  <script src="assets/dropdown/js/navbar-dropdown.js"></script>  <script src="assets/theme/js/script.js"></script>  
-  
-  
+<!--form-->
+{% include form.html %}
+<!--footer-->
+{% include footer.html %}
+<!--script-->
+{% include script.html %} 
 </body>
 </html>
