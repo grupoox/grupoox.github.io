@@ -7,56 +7,43 @@ tags: [blog]
 img: "https://img.freepik.com/fotos-gratis/gesto-de-mao-que-expressa-sentimentos-diferentes_23-2150061933.jpg"
 ---
 
-É com grande satisfação que o Grupo OX anuncia o início de uma nova e importante parceria comercial com o Grupo Ipê. Oficializada em 1º de novembro de 2025, esta aliança estratégica representa um marco significativo em nossa missão de servir a Região Norte com excelência e um portfólio de produtos ainda mais robusto.
+É com grande satisfação que o **Grupo OX** anuncia o início de uma nova e estratégica parceria comercial com o **Grupo Ipê**. Oficializada em **1º de novembro de 2025**, essa união marca um novo capítulo na nossa missão de atender a **Região Norte** com ainda mais eficiência, qualidade e um portfólio ampliado.
 
-  
+O mercado exige confiança, disponibilidade e padrão técnico rigoroso — e foi exatamente pensando nisso que essa parceria foi construída. A combinação da **expertise logística e produtiva do Grupo OX** com a força de **marcas consolidadas no mercado** fortalece nossa atuação e amplia nossas soluções.
 
-Entendemos que o mercado exige confiança e qualidade. Por isso, esta união foi pensada para fortalecer nossa atuação, combinando a expertise logística e de produção do Grupo OX com a força de marcas já consolidadas.
+## O que muda para você, nosso cliente?
 
-  
+Na prática, essa parceria significa **mais opções de Arla 32**, maior capacidade de atendimento e a **mesma qualidade que você já conhece e confia**.
 
-**O Que Muda para Nossos Clientes?**
+Nosso objetivo é ampliar o leque de “bandeiras” de Arla 32, todas produzidas sob o **mesmo padrão de fabricação e controle de qualidade do Grupo OX**.
 
-  
+Além do tradicional **Arla OX 32**, passamos a fabricar e distribuir:
 
-Para você, nosso cliente e parceiro, esta novidade se traduz em mais opções, maior disponibilidade e a mesma segurança de sempre.
+* **Ipê Arla 32**
+* **Arla 32 Flua Petrobras**
+* **Ipiranga Arla 32**
+* **Shell Evolux Arla 32**
 
-  
+## Um portfólio maior, com o mesmo padrão de excelência
 
-O principal objetivo desta parceria é ampliar nosso leque de "bandeiras" de Arla 32, todas fabricadas sob o rigoroso padrão de qualidade do Grupo OX.
+Embora as marcas sejam diversas, o compromisso é único: **qualidade Grupo OX**.
 
-  
+Cada litro de Arla 32 — seja **OX, Ipê, Petrobras, Ipiranga ou Shell** — sai de nossa fábrica seguindo rigorosamente os padrões técnicos exigidos, com **certificação INMETRO** e total confiabilidade.
 
-Com orgulho, anunciamos que, além do nosso tradicional **Arla OX 32**, passamos a fabricar e distribuir as seguintes marcas:
+Essa expansão nos permite atender a Região Norte com força total, oferecendo **Arla 32 a granel, IBC de 1.000 litros e baldes de 20 litros**, com agilidade, escala e segurança.
 
-  
+Estamos entusiasmados com essa nova fase. A parceria com o Grupo Ipê fortalece nossa posição no mercado e reforça nosso compromisso com o crescimento do seu negócio.
 
--   **Ipê Arla 32**    
--   **Arla 32 Flua Petrobras**    
--   **Ipiranga Arla 32**    
--   **Shell Evolux Arla 32**
-    
+> **A família OX cresceu. E quem ganha é você.**
 
-  
+---
 
-**A Qualidade Grupo OX em Um Portfólio Expandido**
+## Solicite seu orçamento agora
 
-  
+Quer saber preços, condições comerciais e disponibilidade para sua região?
+Nossa equipe está pronta para atender você.
 
-O ponto central desta parceria é o nosso compromisso inabalável com a excelência. Queremos que você tenha total clareza: embora as marcas sejam diversas, **o padrão de fabricação e controle de qualidade é único.**
 
-  
-
-Cada litro de Arla 32, seja ele **OX, Ipê, Petrobras, Ipiranga ou Shell**, que sair de nossa fábrica carregará o selo de qualidade Grupo OX. Isso garante que você receberá um produto que atende a todos os padrões técnicos, é **certificado pelo INMETRO** e possui a confiabilidade que você já conhece e confia.
-
-  
-
-Esta expansão nos permite atender à demanda da Região Norte com força total, oferecendo soluções completas em Arla 32 (a granel, IBC de 1000 litros e baldes de 20 litros) com agilidade e a garantia de um produto de primeira linha.
-
-  
-
-Estamos entusiasmados com esta nova fase. A parceria com o Grupo Ipê solidifica nossa posição no mercado e reforça nosso compromisso com o seu sucesso.
-
-  
-
-> A família OX aumentou, e quem ganha é você.
+<a href="https://souox.com/maik" class="btn btn-primary btn-lg">
+  Solicitar orçamento de Arla OX 32
+</a>
