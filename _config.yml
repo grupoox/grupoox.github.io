@@ -1,9 +1,9 @@
-title: "GRUPO OX"
-description: "OX Industria de produtos quimicos"
-permalink: ':title'
-img: "https://picsum.photos/600/363" #https://picsum.photos/600/363
-baseurl: "/"
+title: "Grupo OX: Especialista em Arla 32 | Faça seu Orçamento"
+description: "Indústria especialista em Arla 32. Fale com o Grupo OX e solicite seu orçamento com condições especiais."
+permalink: ":title"
+img: "https://picsum.photos/600/363"
 url: "https://www.souox.com"
+baseurl: "/"
 markdown: kramdown
 # paginate: 10
 plugins:
