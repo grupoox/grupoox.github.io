@@ -1,4 +1,4 @@
-<title>{{ site.title }}</title>
+<title> {% if page.title %} {{ page.title }} {% else %} {{ site.title }} {% endif %} </title>
 <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
 <meta name="keywords" content="GRUPO OX, arla 32, o que é arla 32, para que serve o arla 32, como funciona o arla 32, arla 32 preço, arla 32 caminhões diesel, arla 32 iso 22241, fornecedor de arla 32">
 <meta name="image" content="{% if page.img %}{{ page.img }}{% else %}{{ site.img }}{% endif %}">
