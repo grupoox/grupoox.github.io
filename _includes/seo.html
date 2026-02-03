@@ -15,14 +15,14 @@
 <meta name="thumbnail" content="{% if page.img %}{{ page.img }}{% else %}{{ site.img }}{% endif %}">
 
 <!-- Canonical -->
-<link rel="canonical" href="https://www.souox.com/{{ page.url }}">
+<link rel="canonical" href="https://www.souox.com{{ page.url }}">
 
 <!-- Open Graph / Facebook -->
 <meta property="og:site_name" content="Grupo OX">
 <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
 <meta property="og:type" content="{% if page.title %}article{% else %}website{% endif %}">
 <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
-<meta property="og:url" content="https://www.souox.com/{{ page.url }}">
+<meta property="og:url" content="https://www.souox.com{{ page.url }}">
 <meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}">
 <meta property="og:image" content="{% if page.img %}{{ page.img }}{% else %}{{ site.img }}{% endif %}">
 <meta property="article:published_time" content="2018-06-17T05:59:00-03:00" />
@@ -57,7 +57,7 @@
 <meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
 <meta name="twitter:creator" content="@geanramos" />
 <meta name="twitter:domain" content="souox.com" />
-<meta name="twitter:url" content="https://www.souox.com/{{ page.url }}">
+<meta name="twitter:url" content="https://www.souox.com{{ page.url }}">
 <meta name="twitter:image:src" content="{% if page.img %}{{ page.img }}{% else %}{{ site.img }}{% endif %}">
 <meta name="twitter:image:alt" content="{{ site.title }}">
 
