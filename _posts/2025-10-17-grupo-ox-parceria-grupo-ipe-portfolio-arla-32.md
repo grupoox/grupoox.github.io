@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Grupo OX e Grupo Ipê"
+title: "Grupo OX anuncia parceria com o Grupo Ipê e amplia portfólio Arla 32"
 date: 2015-10-17 06:01:00 -03:00
-description: "Nova Parceria Expande Nosso Portfólio de Arla 32 com a Qualidade que Você Já Conhece"
+description: "Mais opções de Arla 32, mesma qualidade Grupo OX e marcas consolidadas para atender a Região Norte com excelência."
 tags: [blog]
 img: "https://img.freepik.com/fotos-gratis/gesto-de-mao-que-expressa-sentimentos-diferentes_23-2150061933.jpg"
 ---
