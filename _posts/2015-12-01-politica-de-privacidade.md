@@ -4,7 +4,7 @@ title: "🔐 Política de Privacidade"
 date: 2015-12-01 06:01:00 -03:00
 description: "OX INDÚSTRIA DE PRODUTOS QUÍMICOS LTDA (Grupo OX)"
 tags: [privacidade]
-img: "img/politica-anti-spam.jpg"
+img: "https://i1.wp.com/www.souox.com/img/politica-anti-spam.jpg"
 ---
 Última atualização: 01/12/2025
 
