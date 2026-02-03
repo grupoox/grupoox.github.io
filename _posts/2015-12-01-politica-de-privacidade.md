@@ -4,7 +4,7 @@ title: "🔐 Política de Privacidade"
 date: 2015-12-01 06:01:00 -03:00
 description: "OX INDÚSTRIA DE PRODUTOS QUÍMICOS LTDA (Grupo OX)"
 tags: [privacidade]
-img: "https://img.freepik.com/fotos-gratis/conceito-de-colagem-de-controle-de-qualidade-padrao_23-2149595831.jpg"
+img: "img/politica-anti-spam.jpg"
 ---
 Última atualização: 01/12/2025
 

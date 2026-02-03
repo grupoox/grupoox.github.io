@@ -4,7 +4,7 @@ title: "🍪 Política de Cookies"
 date: 2015-12-01 06:01:00 -03:00
 description: "OX INDÚSTRIA DE PRODUTOS QUÍMICOS LTDA (Grupo OX)"
 tags: [privacidade]
-img: "https://img.freepik.com/vetores-premium/ilustracao-de-tecnologia-de-cookies-da-internet-com-registro-de-cookie-de-trilha-de-navegacao-em-um-modelo-de-site_2175-13701.jpg"
+img: "img/politica-de-cookies.jpg"
 ---
 
 # 1. O que são cookies?

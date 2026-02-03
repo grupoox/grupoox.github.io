@@ -4,7 +4,7 @@ title: "📵 Política Anti-Spam"
 date: 2015-12-01 06:01:00 -03:00
 description: "OX INDÚSTRIA DE PRODUTOS QUÍMICOS LTDA (Grupo OX)"
 tags: [privacidade]
-img: "https://img.freepik.com/vetores-premium/ilustracao-detectada-por-malware-de-virus_135170-52.jpg"
+img: "img/politica-anti-spam.jpg"
 ---
 ### Compromisso com a Comunicação Responsável
 ​
