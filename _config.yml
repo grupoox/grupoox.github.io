@@ -6,3 +6,9 @@ baseurl: "/"
 url: "https://www.souox.com"
 markdown: kramdown
 # paginate: 10
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-archives
