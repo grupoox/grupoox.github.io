@@ -44,6 +44,6 @@ Quer saber preços, condições comerciais e disponibilidade para sua região?
 Nossa equipe está pronta para atender você.
 
 
-<a href="https://souox.com/maik" class="btn btn-primary btn-lg">
+<a href="https://souox.com/maik" target="_blank" class="btn btn-primary btn-lg">
   Solicitar orçamento de Arla OX 32
 </a>
