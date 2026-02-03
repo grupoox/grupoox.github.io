@@ -1,0 +1,16 @@
+RewriteEngine On
+
+# Linha de Produtos
+RewriteRule ^linhadeprodutosox/?$ /#produtos [R=301,L]
+
+# Quem Somos
+RewriteRule ^quem-somos/?$ /#sobre [R=301,L]
+
+# Comece Já
+RewriteRule ^comece-já/?$ /#form1-2 [R=301,L]
+
+# Política de Privacidade (com e sem acento)
+RewriteRule ^pol[ií]tica-de-privacidade/?$ /politica-de-privacidade [R=301,L]
+
+# Política de Cookies (com e sem acento)
+RewriteRule ^pol[ií]tica-de-cookies/?$ /politica-de-cookies [R=301,L]
