@@ -10,9 +10,7 @@ layout: page
     <div class="text-center container">
         <div class="row justify-content-center">
             <div class="col-md-12 col-lg-9">
-                <div class="image-wrap mb-4">
-                    <!--<img src="{{ page.img }}" alt="{{ page.title }}">-->
-                </div>
+
                 <h1 class="mbr-section-title mbr-fonts-style mb-3 display-2"><strong>{{ page.title }}</strong></h1>
 				{% if page.description %}
                 <p class="mbr-text mbr-fonts-style display-7">{{ page.description }}</p>
@@ -28,7 +26,7 @@ layout: page
                 <div class="card-wrapper">
                     <div class="card-box mbr-text mbr-fonts-style display-7">
 						{{ content }}
-                        <!--<div class="mbr-section-btn mt-3"><a class="btn btn-success display-4" href="arquivos.html"><span class="mbri-opened-folder mbr-iconfont mbr-iconfont-btn"></span>Arquivos</a></div>-->
+                        
                     </div>
                 </div>
             </div>
@@ -36,7 +34,7 @@ layout: page
     </div>
 </section>
 <!--share--> 
-{% include form.html %}
+{% include form-footer.html %}
 {% include footer.html %}
 {% include script.html %} 
 </body>
