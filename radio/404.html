@@ -1,0 +1,61 @@
+---
+---
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Erro 404</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            flex-direction: column;
+            margin: 0;
+            text-align: center;
+            background-color: #e8e8e8;
+            font-family: 'Roboto', Tahoma, Verdana, Segoe, sans-serif;
+        }
+        .image-container img {
+            width: 400px;
+            height: 400px;
+            object-fit: cover;
+            border-radius: 4px;
+        }
+        .button {
+            margin-top: 20px;
+            padding: 10px 25px;
+            background-color: #00f;
+            color: white;
+            border: none;
+            font-size: 14px;
+            cursor: pointer;
+            border-radius: 4px;
+            text-decoration: none;
+        }
+        .button:hover {
+            background-color: #0000cc;
+        }
+    </style>
+ <script async src="https://www.googletagmanager.com/gtag/js?id=G-TZBPFV014K"></script>
+  <script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-TZBPFV014K', {
+    'cookie_domain': 'auto'
+  });
+  </script>
+</head>
+<body>
+
+    <div class="image-container">
+        <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTliZDFhbmdkaHIwczdhempjYnhhb3g0YWttNmFucTdvM29nZDBwOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9J7tdYltWyXIY/giphy.gif" alt="Erro 404">
+    </div>
+
+    <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}" class="button"><<-- Volte para a Home</a>
+
+</body>
+</html>

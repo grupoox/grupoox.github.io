@@ -1,0 +1,14 @@
+title: "Radios"
+author: "Gean Ramos"
+email: "radios@geanramos.com.br"
+description: "descricao em breve"
+permalink: ':title.html'
+image: "https://picsum.photos/600/363" #https://picsum.photos/600/363
+logo: "https://hunter.fm/images/logo_white.svg"
+baseurl: "/radio/"
+url: "https://www.souox.com"
+theme: minima
+markdown: kramdown
+paginate: 10
+
+

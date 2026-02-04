@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+{% include head.html %}
+<body>
+{% include share.html %}
+<div class="bg"></div>
+<div class="efeito-bg"></div>
+<div class="logo">
+<a id="logo-container" href="{{ site.url }}{{ page.url }}" class="brand-logo center"><img src="{{ page.logo }}" height="70" alt="{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}" /></a>
+</div>
+<div class="play">
+<div class="info-central">
+<span>{{ page.title }}</span>
+<h3>{{ page.frequencia }}</h3>
+<span>{{ page.cidade }}</span>
+</div>
+<div class="dotted um"></div>
+<div class="dotted dois"></div>
+<div class="dotted tres"></div>
+<div class="dotted quatro"></div>
+<div class="dotted cinco"></div>
+<div class="bt-controls">
+<a href="#" class="btn-refresh"><i class="material-icons">refresh</i></a>
+<a class="btn play" href="#" id="playBtn"><i class="material-icons">play_arrow</i></a>
+<a class="btn pause" href="#" id="pauseBtn" style="display: none;"><i class="material-icons">pause</i></a>
+<a class="btn loading" href="#"><i class="fa fa-spinner fa-spin fa-3x fa-fw"></i></a>
+<a href="#" class="btn-share md-trigger md-setperspective" data-modal="modal-share"><i class="material-icons">share</i></a>
+</div>
+
+<div class="info-ouvintes">
+<span>CARREGANO OUVINTES...</span>
+</div>
+</div>
+<div class="md-overlay"></div>
+<!--  Scripts-->
+{% include radio.html %}
+{% include footer.html %}
+</body>
+</html>
