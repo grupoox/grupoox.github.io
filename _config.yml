@@ -1,7 +1,6 @@
 title: "Grupo OX: Especialista em Arla 32 | Faça seu Orçamento"
 description: "Indústria especialista em Arla 32. Fale com o Grupo OX e solicite seu orçamento com condições especiais."
 permalink: ":title"
-logo: "https://hunter.fm/images/logo_white.svg"
 img: "https://www.souox.com/assets/images/imagem-do-whatsapp-de-2025-11-17-s-16.16.53-b269961d.jpeg" #https://picsum.photos/600/363
 url: "https://www.souox.com"
 baseurl: "/"
@@ -13,4 +12,3 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-archives
-
