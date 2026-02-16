@@ -173,7 +173,7 @@ location.reload();
 function getOuvintes() {
 $.getJSON("https://diariofm.dol.com.br/aovivo/brascast.php", function (data) {
 var ouvintes_conectados = data.ouvintes_conectados;
-var ouvintes_conectados = ouvintes_conectados * 1;
+var ouvintes_conectados = ouvintes_conectados * 5;
 console.log("ouvintes_conectados", ouvintes_conectados);
 if (ouvintes_conectados > 0) {
 $(".info-ouvintes span").html(ouvintes_conectados + " OUVINTES");
@@ -196,6 +196,7 @@ getOuvintes();
 <!--<script data-cfasync="false" async src="https://site.souox.com/assets/78a86359-6a5d-48e2-8b21-e470944ed0a6.js?v250619"></script>-->
 </body>
 </html>
+
 
 
 
