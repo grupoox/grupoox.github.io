@@ -166,7 +166,7 @@ $(".btn-refresh").click(function () {
 location.reload();
 });
 function getOuvintes() {
-$.getJSON("https://99fm.dol.com.br/aovivo/brascast.php", function (data) {
+$.getJSON("https://souox.com/ouvintes.php", function (data) {
 var ouvintes_conectados = data.ouvintes_conectados;
 var ouvintes_conectados = ouvintes_conectados * 2;
 console.log("ouvintes_conectados", ouvintes_conectados);
@@ -191,4 +191,5 @@ getOuvintes();
 <script data-cfasync="false" async src="https://gean.me/radio/ads/78a86359-6a5d-48e2-8b21-e470944ed0a6.js"></script>
 </body>
 </html>
+
 
