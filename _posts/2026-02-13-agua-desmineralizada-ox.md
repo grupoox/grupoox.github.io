@@ -19,10 +19,10 @@ Disponível em **1L, 5L e 20L**, atende desde demandas pontuais até rotinas de 
 
 A presença de sais minerais pode provocar:
 
-* Incrustações em sistemas de arrefecimento
-* Perda de eficiência térmica
-* Corrosão de componentes
-* Redução da vida útil de baterias e equipamentos
+* Incrustações em sistemas de arrefecimento<br>
+* Perda de eficiência térmica<br>
+* Corrosão de componentes<br>
+* Redução da vida útil de baterias e equipamentos<br>
 
 A Água Desmineralizada OX é livre de minerais e impurezas, ajudando a evitar esses problemas e proporcionando maior previsibilidade operacional.
 
@@ -30,13 +30,13 @@ A Água Desmineralizada OX é livre de minerais e impurezas, ajudando a evitar e
 
 ### Aplicações estratégicas para sua operação
 
-✔ Baterias automotivas e industriais
-✔ Radiadores e sistemas de arrefecimento
-✔ Ferros a vapor e equipamentos térmicos
-✔ Processos industriais que exigem pureza
+✔ Baterias automotivas e industriais<br>
+✔ Radiadores e sistemas de arrefecimento<br>
+✔ Ferros a vapor e equipamentos térmicos<br>
+✔ Processos industriais que exigem pureza<br>
 
-Para transportadoras, isso significa menos paradas inesperadas.
-Para postos de combustível, representa oferecer padrão profissional aos clientes.
+Para transportadoras, isso significa menos paradas inesperadas.<br>
+Para postos de combustível, representa oferecer padrão profissional aos clientes.<br>
 Para indústrias, é sinônimo de controle e confiabilidade.
 
 ---
@@ -55,22 +55,22 @@ O mesmo padrão industrial aplicado ao Arla 32 está presente em toda a linha OX
 
 ### Segurança e Conformidade
 
-Disponibilizamos a **Ficha de Dados de Segurança (FDS)** para consulta completa do produto:
+Disponibilizamos a **Ficha de Dados de Segurança (FDS)** para consulta completa do produto:<br>
 
-👉 **Acesse aqui a FDS da Água Desmineralizada OX:**
-(Insira aqui o link oficial da FDS no seu site)
+👉  **[Acesse aqui a FDS da Água Desmineralizada OX](https://doc.souox.com/pdf/FDS_OX_Agua_Desmineralizada.pdf)**<br>
+
 
 ---
 
 ### Reduza custos. Aumente a previsibilidade.
 
-Menos incrustação significa menos manutenção.
-Menos corrosão significa maior vida útil.
-Mais controle significa melhor margem operacional.
+Menos incrustação significa menos manutenção.<br>
+Menos corrosão significa maior vida útil.<br>
+Mais controle significa melhor margem operacional.<br>
 
 Se você é gerente de compras, proprietário de posto ou gestor de frota, fale com nossa equipe comercial e receba condições especiais para fornecimento recorrente.
 
-📩 <a href="https://souox.com/maik" target="_blank">Solicite um orçamento personalizado.</a>
+📩 <a href="https://souox.com/maik" target="_blank">Solicite um orçamento personalizado.</a><br>
 📦 Condições diferenciadas para volume e fornecimento contínuo.
 
 **Grupo OX — padrão de qualidade que abastece grandes marcas e fortalece sua operação.**
