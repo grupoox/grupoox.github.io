@@ -1,0 +1,80 @@
+/* BOTÃO FLUTUANTE */
+#qrFloatBtn {
+  position: fixed;
+  bottom: 25px;
+  right: 25px;
+  width: 60px;
+  height: 60px;
+  background: #000;
+  color: #fff;
+  font-size: 28px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  z-index: 9999;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.4);
+  transition: 0.3s;
+}
+
+#qrFloatBtn:hover {
+  transform: scale(1.1);
+}
+
+/* OVERLAY */
+#qrOverlay {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0,0,0,0.6);
+  backdrop-filter: blur(4px);
+  z-index: 9998;
+  justify-content: center;
+  align-items: center;
+}
+
+/* BOX DO QR */
+#qrBox {
+  background: #ffffff;
+  padding: 40px;
+  border-radius: 16px;
+  text-align: center;
+  position: relative;
+  animation: zoomIn 0.3s ease;
+}
+
+/* BOTÃO FECHAR */
+#qrCloseBtn {
+  position: absolute;
+  top: 15px;
+  right: 20px;
+  font-size: 22px;
+  border: none;
+  background: none;
+  cursor: pointer;
+}
+
+/* BOTÃO COPIAR */
+#copyUrlBtn {
+  margin-top: 20px;
+  padding: 12px 20px;
+  border: none;
+  background: #000;
+  color: #fff;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+#copyUrlBtn:hover {
+  opacity: 0.8;
+}
+
+@keyframes zoomIn {
+  from { transform: scale(0.85); opacity: 0; }
+  to { transform: scale(1); opacity: 1; }
+}
