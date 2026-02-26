@@ -1,0 +1,62 @@
+<!-- BOTÃO FLUTUANTE -->
+<div id="qrFloatBtn">
+  &#128247;
+</div>
+
+<!-- MODAL QR -->
+<div id="qrOverlay">
+  <div id="qrBox">
+    <button id="qrCloseBtn">✕</button>
+    <div id="qrCodeContainer"></div>
+    <button id="copyUrlBtn">Clique aqui e copie esta URL</button>
+  </div>
+</div>
+
+<!-- Biblioteca QRCode -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js"></script>
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+
+  const floatBtn = document.getElementById("qrFloatBtn");
+  const overlay = document.getElementById("qrOverlay");
+  const closeBtn = document.getElementById("qrCloseBtn");
+  const qrContainer = document.getElementById("qrCodeContainer");
+  const copyBtn = document.getElementById("copyUrlBtn");
+
+  let qrCreated = false;
+
+  floatBtn.addEventListener("click", function() {
+    overlay.style.display = "flex";
+
+    if (!qrCreated) {
+      new QRCode(qrContainer, {
+        text: window.location.href,
+        width: 500,
+        height: 500
+      });
+      qrCreated = true;
+    }
+  });
+
+  closeBtn.addEventListener("click", function() {
+    overlay.style.display = "none";
+  });
+
+  overlay.addEventListener("click", function(e) {
+    if (e.target === overlay) {
+      overlay.style.display = "none";
+    }
+  });
+
+  copyBtn.addEventListener("click", function() {
+    navigator.clipboard.writeText(window.location.href).then(function() {
+      copyBtn.innerText = "URL copiada com sucesso!";
+      setTimeout(() => {
+        copyBtn.innerText = "Clique aqui e copie esta URL";
+      }, 2000);
+    });
+  });
+
+});
+</script>
