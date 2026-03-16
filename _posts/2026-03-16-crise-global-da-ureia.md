@@ -19,15 +19,15 @@ Então vem comigo que eu vou te explicar esse babado geopolítico que acabou ind
 
 ---
 
-## 🌍 A Geopolítica no Tanque: Por que o ARLA 32 ficou mais caro em 2026
+## 🌍 A Geopolítica no Tanque: Por que o ARLA 32 ficou mais caro em 2026<br>
 
 ## 💥 O “ouro branco” chamado ureia
 
 Primeiro vamos entender a base da história.
 
-O **ARLA 32** é basicamente uma mistura simples:
+O **ARLA 32** é basicamente uma mistura simples:<br>
 
-* **32,5% de ureia de alta pureza**
+* **32,5% de ureia de alta pureza**<br>
 * **67,5% de água desmineralizada**
 
 Simples no papel… mas **nada simples de produzir**.
@@ -38,16 +38,16 @@ Em 2026, vários dos maiores produtores mundiais desse insumo estão justamente 
 
 Entre eles:
 
-* Rússia
-* Irã
-* Catar
-* Egito
+* Rússia<br>
+* Irã<br>
+* Catar<br>
+* Egito<br>
 
 Agora imagina o seguinte cenário:
 
-🔥 tensão militar
-🚢 rotas comerciais ameaçadas
-💸 sanções econômicas
+🔥 tensão militar<br>
+🚢 rotas comerciais ameaçadas<br>
+💸 sanções econômicas<br>
 
 Pronto. A receita perfeita para o preço disparar.
 
@@ -80,11 +80,11 @@ E aí acontece algo que pouca gente percebe:
 
 Mesmo que uma empresa brasileira produza ARLA aqui dentro do país, **o preço da matéria-prima segue o mercado internacional**, normalmente cotado em dólar.
 
-Ou seja:
+Ou seja:<br>
 
-🌎 falta ureia no mundo
-💵 preço internacional sobe
-🇧🇷 preço interno acompanha
+🌎 falta ureia no mundo<br>
+💵 preço internacional sobe<br>
+🇧🇷 preço interno acompanha<br>
 
 Simples assim.
 
@@ -127,12 +127,12 @@ Parece simples… mas não é.
 
 Essa mudança pode acrescentar **até 15 dias de viagem**.
 
-E tempo no mar significa:
+E tempo no mar significa:<br>
 
-* mais combustível
-* mais tripulação
-* mais manutenção
-* mais custo
+* mais combustível<br>
+* mais tripulação<br>
+* mais manutenção<br>
+* mais custo<br>
 
 Mas ainda tem outro detalhe que pesa muito…
 
@@ -152,12 +152,12 @@ O frete aumenta.
 
 E quando o frete aumenta… o produto final também sobe.
 
-Isso vale para:
+Isso vale para:<br>
 
-* fertilizantes
-* combustíveis
-* grãos
-* e claro… **ureia e ARLA 32**
+* fertilizantes<br>
+* combustíveis<br>
+* grãos<br>
+* e claro… **ureia e ARLA 32**<br>
 
 ---
 
@@ -185,9 +185,9 @@ E nenhum deles é barato.
 
 Rodar sem o reagente é considerado **infração grave**.
 
-Penalidades:
+Penalidades:<br>
 
-💰 multa de **R$ 195,23**
+💰 multa de **R$ 195,23**<br>
 📍 **5 pontos na CNH**
 
 Mas calma… porque pode piorar.
@@ -220,24 +220,24 @@ Esse sistema depende diretamente do ARLA 32 para reduzir emissões.
 
 Quando ele detecta problema no reagente ou falta do produto, o caminhão entra em **modo de segurança**.
 
-E isso significa:
+E isso significa:<br>
 
-⚡ perda de potência
-🚛 até **50% menos desempenho do motor**
+⚡ perda de potência<br>
+🚛 até **50% menos desempenho do motor**<br>
 
 Agora imagina isso no meio da estrada carregado…
 
 Mas ainda tem outro risco.
 
-Se usar produto adulterado, o sistema pode danificar componentes caros como:
+Se usar produto adulterado, o sistema pode danificar componentes caros como:<br>
 
-* catalisador
-* sensores
-* injetores do sistema SCR
+* catalisador<br>
+* sensores<br>
+* injetores do sistema SCR<br>
 
 E o conserto?
 
-Pode passar fácil dos **R$ 20 mil**.
+Pode passar fácil dos **R$ 20 mil**.<br>
 
 Sim… vinte mil reais.
 
