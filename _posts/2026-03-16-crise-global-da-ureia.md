@@ -2,7 +2,7 @@
 layout: post
 title: "Guerra e ARLA 32: O efeito dominó que afeta seu bolso"
 description: "Entenda o aumento do ARLA 32, os riscos de rodar sem o reagente e como as tensões no Canal de Suez encarecem o transporte e a logística nacional."
-images: "https://media.gazetadopovo.com.br/2024/07/29105627/d9bfa8ef15e46e734d17c9f634f73eecace0a420w-1280x720-1.jpg"
+img: "https://media.gazetadopovo.com.br/2024/07/29105627/d9bfa8ef15e46e734d17c9f634f73eecace0a420w-1280x720-1.jpg"
 tags: [blog]
 date: 2026-03-16 08:00:00 -0300
 ---

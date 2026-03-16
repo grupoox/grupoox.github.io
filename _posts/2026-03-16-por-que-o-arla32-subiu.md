@@ -2,7 +2,7 @@
 layout: post
 title: "Por que o ARLA 32 subiu? Entenda o impacto das guerras."
 description: "Por que o conflito no Oriente Médio encarece o ARLA 32 do Grupo OX? Veja como a logística global e a falta de ureia impactam o frete brasileiro."
-images: "https://images.unsplash.com/photo-1617398759584-bb7c6be1bf3c"
+img: "https://images.unsplash.com/photo-1617398759584-bb7c6be1bf3c"
 tags: [blog]
 date: 2026-03-16 08:00:00 -0300
 ---
