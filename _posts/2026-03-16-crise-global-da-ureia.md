@@ -299,6 +299,6 @@ quando ouvir falar de guerra, tensão no Golfo Pérsico ou crise energética…
 
 Pode ter certeza que, de algum jeito, **isso pode acabar influenciando até o preço do ARLA 32 aqui no Brasil.**
 
-O mundo está pequeno, minha Amigo.
+O mundo está pequeno, meu Amigo.
 
 Pequeno… e completamente interligado. 🌎🚛
