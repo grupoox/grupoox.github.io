@@ -2,44 +2,39 @@
     <div class="mbr-overlay" style="opacity: 0.5; background-color: rgb(255, 255, 255);"></div>
     <div class="container">
         <div class="row justify-content-center">
-            <div class="col-lg-8 mx-auto mbr-form">                
-                <script type="text/javascript">
-                    var enviado = false;
-                    function redirecionar() {
-                        if (enviado) {
-                            window.location = 'https://souox.com/obrigado';
-                        }
-                    }
-                </script>
-                <iframe name="iframe_oculto_google" id="iframe_oculto_google" style="display:none;" onload="redirecionar();"></iframe>
-                <form autocomplete="false" role="form" method="POST" action="https://docs.google.com/forms/d/e/1FAIpQLSd1U-7KZSfbYQjzMaU72V2GV6w1pNDZS06fJq-my0Wvydo77g/formResponse" target="iframe_oculto_google" onsubmit="enviado=true;" class="mbr-form form-with-styler">                      
-                    <div class="dragArea row">
-                        <div class="col-12">
-                            <h1 class="mbr-section-title mb-4 mbr-fonts-style align-center display-2">
-                                <strong>Quer saber tudo em primeira mão?</strong>
-                            </h1>
-                        </div>
-                        <div class="col-12">
-                            <p class="mbr-text mbr-fonts-style mb-5 align-center display-7">
-                                Cadastre-se e receba em primeira mão todas as promoções, condições especiais e descontos exclusivos dos produtos do Grupo OX.<br>
-                                Ao fazer parte da nossa Lista VIP, você entra em um canal direto e exclusivo com o Grupo OX — o mesmo que centenas de clientes e parceiros já utilizam.
-                            </p>
-                        </div>
-                        <div class="col-md col-12 form-group mb-3">
-                            <input name="entry.2005620554" type="text" class="form-control" placeholder="Nome" required>
-                        </div>
-                        <div class="col-md col-12 form-group mb-3">
-                            <input name="entry.1045781291" type="email" class="form-control" placeholder="Digite seu melhor Email..." required>
-                        </div>
-                        <div class="mbr-section-btn col-12 col-md-auto">
-                            <button type="submit" class="btn btn-success display-4">
-                                <span class="mobi-mbri mobi-mbri-share mbr-iconfont mbr-iconfont-btn"></span>inscreva-me
-                            </button>
-                        </div>
-                    </div>
-                </form>
-
+            <div class="col-lg-8 mx-auto mbr-form">
+    <script type="text/javascript">var enviado=false;function redirecionarListmonk(){if (enviado){window.location='https://souox.com/obrigado'}}</script>
+    <iframe name="iframe_oculto_listmonk" id="iframe_oculto_listmonk" style="display:none;" onload="redirecionarListmonk();"></iframe>
+    <form autocomplete="false" role="form" method="POST" action="https://app.souox.com/subscription/form" target="iframe_oculto_listmonk" onsubmit="enviado=true;" class="mbr-form form-with-styler listmonk-form">
+        <input type="hidden" name="nonce" />
+        <input type="hidden" name="l" value="8c894c6c-8cdc-4e74-b517-2ae1e5e27c67" />
+        <div class="dragArea row">
+            <div class="col-12">
+                <h1 class="mbr-section-title mb-4 mbr-fonts-style align-center display-2">
+                    <strong>Quer saber tudo em primeira mão?</strong>
+                </h1>
             </div>
+            <div class="col-12">
+                <p class="mbr-text mbr-fonts-style mb-5 align-center display-7">
+                    Cadastre-se e receba em primeira mão todas as promoções, condições especiais e descontos exclusivos dos produtos do Grupo OX.<br>
+                    Ao fazer parte da nossa Lista VIP, você entra em um canal direto e exclusivo com o Grupo OX — o mesmo que centenas de clientes e parceiros já utilizam.
+                </p>
+            </div>
+            <div class="col-md col-12 form-group mb-3">
+                <input name="name" type="text" class="form-control" placeholder="Nome" required>
+            </div>
+            <div class="col-md col-12 form-group mb-3">
+                <input name="email" type="email" class="form-control" placeholder="Digite seu melhor Email..." required>
+            </div>
+            <div class="mbr-section-btn col-12 col-md-auto">
+                <button type="submit" class="btn btn-success display-4">
+                    <span class="mobi-mbri mobi-mbri-share mbr-iconfont mbr-iconfont-btn"></span>inscreva-me
+                </button>
+            </div>
+        </div>
+    </form>
+</div>
+
         </div>
     </div>
 </section>
