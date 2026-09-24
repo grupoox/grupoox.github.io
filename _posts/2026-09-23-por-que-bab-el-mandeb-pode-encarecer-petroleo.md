@@ -1,4 +1,13 @@
-# Iêmen e Mar Vermelho: por que Bab el-Mandeb pode encarecer petróleo, diesel e frete no Brasil
+---
+layout: post
+title: "Iêmen e Mar Vermelho: por que Bab el-Mandeb pode encarecer petróleo, diesel e frete no Brasil"
+date: 2026-09-23 22:20:00 -03:00
+description: "Entenda como a escalada no Iêmen e os riscos sobre Bab el-Mandeb e o Estreito de Hormuz podem pressionar o petróleo, o diesel, o frete e a logística no Brasil."
+tags: [petróleo, diesel, frete, logística, transporte, geopolítica]
+img: "https://ix.cnn.io/dailygraphics/graphics/20260910-yemen-houthi-map-update/static/media/ai2html-graphic-desktop.4245eb11.jpg"
+---
+
+<audio controls="" preload="none" aria-label="Versão em áudio desta publicação" src="/midia/2026-09-23-iemen-mar-vermelho-frete-petroleo-brasil.mp3">Seu navegador não suporta áudio. <a href="/midia/2026-09-23-iemen-mar-vermelho-frete-petroleo-brasil.mp3">Baixe o áudio</a>.</audio>
 
 O mapa virou um funil. De um lado, a guerra no Oriente Médio aperta o Estreito de Hormuz. Do outro, a ofensiva dos Houthis amplia o risco no litoral do Iêmen e na passagem de Bab el-Mandeb. Quando duas rotas estreitas concentram tanta carga, qualquer interrupção faz o mercado prender a respiração e procurar um caminho mais caro.
 
