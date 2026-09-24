@@ -6,12 +6,13 @@ description: "Entenda como a escalada no Iêmen e os riscos sobre Bab el-Mandeb 
 tags: [petróleo, diesel, frete, logística, transporte, geopolítica]
 img: "https://ix.cnn.io/dailygraphics/graphics/20260910-yemen-houthi-map-update/static/media/ai2html-graphic-desktop.4245eb11.jpg"
 ---
+*Imagem: CNN/ACAPS. [Cartograma original](https://ix.cnn.io/dailygraphics/graphics/20260910-yemen-houthi-map-update/static/media/ai2html-graphic-desktop.4245eb11.jpg).* 
+
 
 <audio controls="" preload="none" aria-label="Versão em áudio desta publicação" src="/midia/2026-09-23-iemen-mar-vermelho-frete-petroleo-brasil.mp3">Seu navegador não suporta áudio. <a href="/midia/2026-09-23-iemen-mar-vermelho-frete-petroleo-brasil.mp3">Baixe o áudio</a>.</audio>
 
 O mapa virou um funil. De um lado, a guerra no Oriente Médio aperta o Estreito de Hormuz. Do outro, a ofensiva dos Houthis amplia o risco no litoral do Iêmen e na passagem de Bab el-Mandeb. Quando duas rotas estreitas concentram tanta carga, qualquer interrupção faz o mercado prender a respiração e procurar um caminho mais caro.
 
-![enter image description here](https://ix.cnn.io/dailygraphics/graphics/20260910-yemen-houthi-map-update/static/media/ai2html-graphic-desktop.4245eb11.jpg)
 
 Para o Brasil, o efeito mais provável no curto prazo não é um sumiço imediato de diesel nas bombas. A transmissão tende a acontecer por outra trilha: petróleo mais volátil, derivados mais caros, câmbio pressionado, fretes marítimos e rodoviários maiores e aumento dos custos operacionais. O diesel costuma sentir a crise antes do consumidor, primeiro nas planilhas de quem transporta mercadorias.
 
@@ -95,6 +96,3 @@ A notícia confirmada é que a escalada ampliou o risco sobre duas passagens est
 - [IEA, análise sobre a pressão nos mercados de petróleo diante da escassez no Oriente Médio](https://iea.org/commentaries/oil-markets-strain-to-plug-the-gap-left-by-middle-east-supply-shortfall)
 - [Transporte Moderno, 4 de março de 2026, impacto da guerra no frete rodoviário brasileiro](https://transportemoderno.com.br/2026/03/04/guerra-no-oriente-medio-ja-pressiona-frete-rodoviario-no-brasil/)
 
-![Cartograma da escalada no Iêmen, no Mar Vermelho e no Estreito de Bab el-Mandeb](https://ix.cnn.io/dailygraphics/graphics/20260910-yemen-houthi-map-update/static/media/ai2html-graphic-desktop.4245eb11.jpg)
-
-*Imagem: CNN/ACAPS. [Cartograma original](https://ix.cnn.io/dailygraphics/graphics/20260910-yemen-houthi-map-update/static/media/ai2html-graphic-desktop.4245eb11.jpg).* 
