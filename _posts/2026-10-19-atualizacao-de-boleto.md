@@ -47,5 +47,5 @@ Atenciosamente,
 **Financeiro | Grupo OX**  
 **OX Indústria de Produtos Químicos Ltda.**  
 
-**CNPJ — Matriz:** 33.029.366/0001-42
+**CNPJ — Matriz:** 33.029.366/0001-42  
 **CNPJ — Filial Marabá:** 33.029.366/0002-23
