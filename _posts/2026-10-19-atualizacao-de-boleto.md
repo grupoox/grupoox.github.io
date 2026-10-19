@@ -27,6 +27,7 @@ O atendimento oficial está sendo realizado por:
 
 > **Responsável:** Laene Silva  
 > **Telefone/WhatsApp:** [+55 (94) 9305-3077](https://wa.me/559493053077)
+> **E-mail:** financeiro@souox.com
 
   
 Antes de efetuar qualquer pagamento, confirme com [o Financeiro](https://wa.me/559493053077):  
